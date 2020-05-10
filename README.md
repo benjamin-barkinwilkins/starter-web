@@ -1,3 +1,5 @@
+A note to see what happens
+
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
